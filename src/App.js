@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import { motion } from "framer-motion";
 import "./App.css";
 
@@ -21,7 +21,7 @@ const Typewriter = ({
   })[0];
 
   // Function to create different typing sounds based on type
-  const playTypingSound = () => {
+  const playTypingSound = useCallback(() => {
     if (!audioContextRef || isMuted) return;
 
     try {
@@ -93,7 +93,7 @@ const Typewriter = ({
     } catch (e) {
       // Silently handle any audio issues
     }
-  };
+  }, [audioContextRef, isMuted, soundType]);
 
   useEffect(() => {
     setDisplayed("");
@@ -117,7 +117,7 @@ const Typewriter = ({
       }
     }, speed);
     return () => clearInterval(interval);
-  }, [text, speed, onDone]);
+  }, [text, speed, onDone, playTypingSound]);
 
   return (
     <span>
@@ -212,18 +212,6 @@ We are checking what it's plugged into.`,
       transition: {
         duration: 1,
         staggerChildren: 0.3,
-      },
-    },
-  };
-
-  const sectionVariants = {
-    hidden: { opacity: 0, y: 50 },
-    visible: {
-      opacity: 1,
-      y: 0,
-      transition: {
-        duration: 0.8,
-        ease: "easeOut",
       },
     },
   };
