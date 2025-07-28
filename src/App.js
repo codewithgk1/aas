@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import "./App.css";
 
 // Typewriter component for left-to-right typing effect
-const Typewriter = ({ text, speed = 25, onDone }) => {
+const Typewriter = ({ text, speed = 25, onDone, soundType = 'retro' }) => {
   const [displayed, setDisplayed] = useState("");
   const [isDone, setIsDone] = useState(false);
   const audioContextRef = useState(() => {
@@ -14,7 +14,7 @@ const Typewriter = ({ text, speed = 25, onDone }) => {
     }
   })[0];
   
-  // Function to create classic retro computer beep sound
+  // Function to create different typing sounds based on type
   const playTypingSound = () => {
     if (!audioContextRef) return;
     
@@ -25,17 +25,41 @@ const Typewriter = ({ text, speed = 25, onDone }) => {
       oscillator.connect(gainNode);
       gainNode.connect(audioContextRef.destination);
       
-      // Create classic retro computer beep sound
-      oscillator.type = 'sine'; // Pure sine wave for clean retro sound
-      oscillator.frequency.setValueAtTime(800, audioContextRef.currentTime);
-      
-      // Quick attack and decay for classic beep
-      gainNode.gain.setValueAtTime(0, audioContextRef.currentTime);
-      gainNode.gain.linearRampToValueAtTime(0.15, audioContextRef.currentTime + 0.01);
-      gainNode.gain.exponentialRampToValueAtTime(0.001, audioContextRef.currentTime + 0.08);
-      
-      oscillator.start(audioContextRef.currentTime);
-      oscillator.stop(audioContextRef.currentTime + 0.08);
+      if (soundType === 'retro') {
+        // Classic retro computer beep sound
+        oscillator.type = 'sine';
+        oscillator.frequency.setValueAtTime(800, audioContextRef.currentTime);
+        
+        gainNode.gain.setValueAtTime(0, audioContextRef.currentTime);
+        gainNode.gain.linearRampToValueAtTime(0.15, audioContextRef.currentTime + 0.01);
+        gainNode.gain.exponentialRampToValueAtTime(0.001, audioContextRef.currentTime + 0.08);
+        
+        oscillator.start(audioContextRef.currentTime);
+        oscillator.stop(audioContextRef.currentTime + 0.08);
+      } else if (soundType === 'scifi') {
+        // Sci-fi computer bite sound
+        oscillator.type = 'square';
+        oscillator.frequency.setValueAtTime(1200, audioContextRef.currentTime);
+        oscillator.frequency.exponentialRampToValueAtTime(800, audioContextRef.currentTime + 0.02);
+        oscillator.frequency.exponentialRampToValueAtTime(400, audioContextRef.currentTime + 0.04);
+        
+        gainNode.gain.setValueAtTime(0, audioContextRef.currentTime);
+        gainNode.gain.linearRampToValueAtTime(0.12, audioContextRef.currentTime + 0.003);
+        gainNode.gain.exponentialRampToValueAtTime(0.001, audioContextRef.currentTime + 0.05);
+        
+        oscillator.start(audioContextRef.currentTime);
+        oscillator.stop(audioContextRef.currentTime + 0.05);
+      } else if (soundType === 'original') {
+        // Original simple click sound
+        oscillator.frequency.setValueAtTime(600, audioContextRef.currentTime);
+        oscillator.frequency.exponentialRampToValueAtTime(150, audioContextRef.currentTime + 0.008);
+        
+        gainNode.gain.setValueAtTime(0.08, audioContextRef.currentTime);
+        gainNode.gain.exponentialRampToValueAtTime(0.001, audioContextRef.currentTime + 0.015);
+        
+        oscillator.start(audioContextRef.currentTime);
+        oscillator.stop(audioContextRef.currentTime + 0.015);
+      }
     } catch (e) {
       // Silently handle any audio issues
     }
@@ -77,6 +101,7 @@ const App = () => {
   const [currentSection, setCurrentSection] = useState(0);
   const [isVisible, setIsVisible] = useState(false);
   const [currentParagraph, setCurrentParagraph] = useState(0);
+  const [soundType, setSoundType] = useState('retro'); // 'retro', 'scifi', 'original'
 
   useEffect(() => {
     setIsVisible(true);
@@ -195,6 +220,29 @@ We are checking what it's plugged into.`,
         animate={isVisible ? "visible" : "hidden"}
       >
         <motion.header className="header" variants={titleVariants}>
+          <div className="sound-controls">
+            <button
+              className={`sound-button ${soundType === 'retro' ? 'active' : ''}`}
+              onClick={() => setSoundType('retro')}
+              title="Classic Retro Computer Beep"
+            >
+              RETRO
+            </button>
+            <button
+              className={`sound-button ${soundType === 'scifi' ? 'active' : ''}`}
+              onClick={() => setSoundType('scifi')}
+              title="Sci-Fi Computer Bite"
+            >
+              SCI-FI
+            </button>
+            <button
+              className={`sound-button ${soundType === 'original' ? 'active' : ''}`}
+              onClick={() => setSoundType('original')}
+              title="Original Click Sound"
+            >
+              CLICK
+            </button>
+          </div>
           <h1 className="main-title">ANTI-ALIEN SOCIETY</h1>
           <div className="subtitle">CLASSIFIED INTELLIGENCE STRUCTURE</div>
         </motion.header>
@@ -254,6 +302,7 @@ We are checking what it's plugged into.`,
                         key={currentSection + "-" + index}
                         text={paragraph}
                         speed={36}
+                        soundType={soundType}
                         onDone={() => setCurrentParagraph((p) => p + 1)}
                       />
                     </p>
