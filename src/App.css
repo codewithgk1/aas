@@ -74,6 +74,39 @@
   border-color: #00cc33;
 }
 
+.mute-button {
+  background: transparent;
+  border: 1px solid #00ff41;
+  color: #00ff41;
+  padding: 0.3rem 0.6rem;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 3px;
+  margin-right: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.5rem;
+}
+
+.mute-button:hover {
+  background: rgba(0, 255, 65, 0.1);
+  box-shadow: 0 0 10px rgba(0, 255, 65, 0.3);
+}
+
+.mute-button.muted {
+  background: rgba(255, 0, 0, 0.2);
+  border-color: #ff4141;
+  color: #ff4141;
+}
+
+.mute-button.muted:hover {
+  background: rgba(255, 0, 0, 0.3);
+  box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+}
+
 .header::before {
   content: '';
   position: absolute;
@@ -295,6 +328,12 @@
   .sound-button {
     font-size: 0.6rem;
     padding: 0.25rem 0.5rem;
+  }
+  
+  .mute-button {
+    font-size: 0.8rem;
+    padding: 0.25rem 0.5rem;
+    min-width: 2rem;
   }
   
   .navigation {

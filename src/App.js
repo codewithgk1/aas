@@ -16,7 +16,7 @@ const Typewriter = ({ text, speed = 25, onDone, soundType = 'retro' }) => {
   
   // Function to create different typing sounds based on type
   const playTypingSound = () => {
-    if (!audioContextRef) return;
+    if (!audioContextRef || isMuted) return;
     
     try {
       const oscillator = audioContextRef.createOscillator();
@@ -102,6 +102,7 @@ const App = () => {
   const [isVisible, setIsVisible] = useState(false);
   const [currentParagraph, setCurrentParagraph] = useState(0);
   const [soundType, setSoundType] = useState('retro'); // 'retro', 'scifi', 'original'
+  const [isMuted, setIsMuted] = useState(false);
 
   useEffect(() => {
     setIsVisible(true);
@@ -221,6 +222,13 @@ We are checking what it's plugged into.`,
       >
         <motion.header className="header" variants={titleVariants}>
           <div className="sound-controls">
+            <button
+              className={`mute-button ${isMuted ? 'muted' : ''}`}
+              onClick={() => setIsMuted(!isMuted)}
+              title={isMuted ? "Unmute Sound" : "Mute Sound"}
+            >
+              {isMuted ? '🔇' : '🔊'}
+            </button>
             <button
               className={`sound-button ${soundType === 'retro' ? 'active' : ''}`}
               onClick={() => setSoundType('retro')}
