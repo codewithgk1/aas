@@ -3,7 +3,13 @@ import { motion } from "framer-motion";
 import "./App.css";
 
 // Typewriter component for left-to-right typing effect
-const Typewriter = ({ text, speed = 25, onDone, soundType = 'retro' }) => {
+const Typewriter = ({
+  text,
+  speed = 25,
+  onDone,
+  soundType = "retro",
+  isMuted = false,
+}) => {
   const [displayed, setDisplayed] = useState("");
   const [isDone, setIsDone] = useState(false);
   const audioContextRef = useState(() => {
@@ -13,50 +19,74 @@ const Typewriter = ({ text, speed = 25, onDone, soundType = 'retro' }) => {
       return null;
     }
   })[0];
-  
+
   // Function to create different typing sounds based on type
   const playTypingSound = () => {
     if (!audioContextRef || isMuted) return;
-    
+
     try {
       const oscillator = audioContextRef.createOscillator();
       const gainNode = audioContextRef.createGain();
-      
+
       oscillator.connect(gainNode);
       gainNode.connect(audioContextRef.destination);
-      
-      if (soundType === 'retro') {
+
+      if (soundType === "retro") {
         // Classic retro computer beep sound
-        oscillator.type = 'sine';
+        oscillator.type = "sine";
         oscillator.frequency.setValueAtTime(800, audioContextRef.currentTime);
-        
+
         gainNode.gain.setValueAtTime(0, audioContextRef.currentTime);
-        gainNode.gain.linearRampToValueAtTime(0.15, audioContextRef.currentTime + 0.01);
-        gainNode.gain.exponentialRampToValueAtTime(0.001, audioContextRef.currentTime + 0.08);
-        
+        gainNode.gain.linearRampToValueAtTime(
+          0.15,
+          audioContextRef.currentTime + 0.01
+        );
+        gainNode.gain.exponentialRampToValueAtTime(
+          0.001,
+          audioContextRef.currentTime + 0.08
+        );
+
         oscillator.start(audioContextRef.currentTime);
         oscillator.stop(audioContextRef.currentTime + 0.08);
-      } else if (soundType === 'scifi') {
+      } else if (soundType === "scifi") {
         // Sci-fi computer bite sound
-        oscillator.type = 'square';
+        oscillator.type = "square";
         oscillator.frequency.setValueAtTime(1200, audioContextRef.currentTime);
-        oscillator.frequency.exponentialRampToValueAtTime(800, audioContextRef.currentTime + 0.02);
-        oscillator.frequency.exponentialRampToValueAtTime(400, audioContextRef.currentTime + 0.04);
-        
+        oscillator.frequency.exponentialRampToValueAtTime(
+          800,
+          audioContextRef.currentTime + 0.02
+        );
+        oscillator.frequency.exponentialRampToValueAtTime(
+          400,
+          audioContextRef.currentTime + 0.04
+        );
+
         gainNode.gain.setValueAtTime(0, audioContextRef.currentTime);
-        gainNode.gain.linearRampToValueAtTime(0.12, audioContextRef.currentTime + 0.003);
-        gainNode.gain.exponentialRampToValueAtTime(0.001, audioContextRef.currentTime + 0.05);
-        
+        gainNode.gain.linearRampToValueAtTime(
+          0.12,
+          audioContextRef.currentTime + 0.003
+        );
+        gainNode.gain.exponentialRampToValueAtTime(
+          0.001,
+          audioContextRef.currentTime + 0.05
+        );
+
         oscillator.start(audioContextRef.currentTime);
         oscillator.stop(audioContextRef.currentTime + 0.05);
-      } else if (soundType === 'original') {
+      } else if (soundType === "original") {
         // Original simple click sound
         oscillator.frequency.setValueAtTime(600, audioContextRef.currentTime);
-        oscillator.frequency.exponentialRampToValueAtTime(150, audioContextRef.currentTime + 0.008);
-        
+        oscillator.frequency.exponentialRampToValueAtTime(
+          150,
+          audioContextRef.currentTime + 0.008
+        );
+
         gainNode.gain.setValueAtTime(0.08, audioContextRef.currentTime);
-        gainNode.gain.exponentialRampToValueAtTime(0.001, audioContextRef.currentTime + 0.015);
-        
+        gainNode.gain.exponentialRampToValueAtTime(
+          0.001,
+          audioContextRef.currentTime + 0.015
+        );
+
         oscillator.start(audioContextRef.currentTime);
         oscillator.stop(audioContextRef.currentTime + 0.015);
       }
@@ -64,21 +94,21 @@ const Typewriter = ({ text, speed = 25, onDone, soundType = 'retro' }) => {
       // Silently handle any audio issues
     }
   };
-  
+
   useEffect(() => {
     setDisplayed("");
     setIsDone(false);
     if (!text) return;
-    
+
     let i = 0;
     const interval = setInterval(() => {
       // Play typing sound BEFORE displaying the character for better sync
-      if (text[i] && text[i] !== ' ' && text[i] !== '\n') {
+      if (text[i] && text[i] !== " " && text[i] !== "\n") {
         playTypingSound();
       }
-      
+
       setDisplayed(text.slice(0, i + 1));
-      
+
       i++;
       if (i >= text.length) {
         clearInterval(interval);
@@ -88,7 +118,7 @@ const Typewriter = ({ text, speed = 25, onDone, soundType = 'retro' }) => {
     }, speed);
     return () => clearInterval(interval);
   }, [text, speed, onDone]);
-  
+
   return (
     <span>
       {displayed}
@@ -101,7 +131,7 @@ const App = () => {
   const [currentSection, setCurrentSection] = useState(0);
   const [isVisible, setIsVisible] = useState(false);
   const [currentParagraph, setCurrentParagraph] = useState(0);
-  const [soundType, setSoundType] = useState('retro'); // 'retro', 'scifi', 'original'
+  const [soundType, setSoundType] = useState("retro"); // 'retro', 'scifi', 'original'
   const [isMuted, setIsMuted] = useState(false);
 
   useEffect(() => {
@@ -223,29 +253,35 @@ We are checking what it's plugged into.`,
         <motion.header className="header" variants={titleVariants}>
           <div className="sound-controls">
             <button
-              className={`mute-button ${isMuted ? 'muted' : ''}`}
+              className={`mute-button ${isMuted ? "muted" : ""}`}
               onClick={() => setIsMuted(!isMuted)}
               title={isMuted ? "Unmute Sound" : "Mute Sound"}
             >
-              {isMuted ? '🔇' : '🔊'}
+              {isMuted ? "🔇" : "🔊"}
             </button>
             <button
-              className={`sound-button ${soundType === 'retro' ? 'active' : ''}`}
-              onClick={() => setSoundType('retro')}
+              className={`sound-button ${
+                soundType === "retro" ? "active" : ""
+              }`}
+              onClick={() => setSoundType("retro")}
               title="Classic Retro Computer Beep"
             >
               RETRO
             </button>
             <button
-              className={`sound-button ${soundType === 'scifi' ? 'active' : ''}`}
-              onClick={() => setSoundType('scifi')}
+              className={`sound-button ${
+                soundType === "scifi" ? "active" : ""
+              }`}
+              onClick={() => setSoundType("scifi")}
               title="Sci-Fi Computer Bite"
             >
               SCI-FI
             </button>
             <button
-              className={`sound-button ${soundType === 'original' ? 'active' : ''}`}
-              onClick={() => setSoundType('original')}
+              className={`sound-button ${
+                soundType === "original" ? "active" : ""
+              }`}
+              onClick={() => setSoundType("original")}
               title="Original Click Sound"
             >
               CLICK
@@ -311,6 +347,7 @@ We are checking what it's plugged into.`,
                         text={paragraph}
                         speed={36}
                         soundType={soundType}
+                        isMuted={isMuted}
                         onDone={() => setCurrentParagraph((p) => p + 1)}
                       />
                     </p>
