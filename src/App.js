@@ -14,7 +14,7 @@ const Typewriter = ({ text, speed = 25, onDone }) => {
     }
   })[0];
   
-  // Function to create sci-fi computer bite sound
+  // Function to create classic retro computer beep sound
   const playTypingSound = () => {
     if (!audioContextRef) return;
     
@@ -25,19 +25,17 @@ const Typewriter = ({ text, speed = 25, onDone }) => {
       oscillator.connect(gainNode);
       gainNode.connect(audioContextRef.destination);
       
-      // Create sci-fi computer bite sound
-      oscillator.type = 'square'; // Square wave for digital sound
-      oscillator.frequency.setValueAtTime(1200, audioContextRef.currentTime);
-      oscillator.frequency.exponentialRampToValueAtTime(800, audioContextRef.currentTime + 0.02);
-      oscillator.frequency.exponentialRampToValueAtTime(400, audioContextRef.currentTime + 0.04);
+      // Create classic retro computer beep sound
+      oscillator.type = 'sine'; // Pure sine wave for clean retro sound
+      oscillator.frequency.setValueAtTime(800, audioContextRef.currentTime);
       
-      // Sharp attack and quick decay for bite effect
+      // Quick attack and decay for classic beep
       gainNode.gain.setValueAtTime(0, audioContextRef.currentTime);
-      gainNode.gain.linearRampToValueAtTime(0.12, audioContextRef.currentTime + 0.003);
-      gainNode.gain.exponentialRampToValueAtTime(0.001, audioContextRef.currentTime + 0.05);
+      gainNode.gain.linearRampToValueAtTime(0.15, audioContextRef.currentTime + 0.01);
+      gainNode.gain.exponentialRampToValueAtTime(0.001, audioContextRef.currentTime + 0.08);
       
       oscillator.start(audioContextRef.currentTime);
-      oscillator.stop(audioContextRef.currentTime + 0.05);
+      oscillator.stop(audioContextRef.currentTime + 0.08);
     } catch (e) {
       // Silently handle any audio issues
     }
