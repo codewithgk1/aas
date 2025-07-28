@@ -1,0 +1,1957 @@
+Uncaught runtime errors:
+×
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
+ERROR
+isMuted is not defined
+ReferenceError: isMuted is not defined
+    at playTypingSound (https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49926:29)
+    at https://0dbf1b1c-059c-4a2c-a41a-495cd5cffdc3-00-1pm8xqodvsfu2.pike.replit.dev/static/js/bundle.js:49973:9
