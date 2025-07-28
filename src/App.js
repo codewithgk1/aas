@@ -14,7 +14,7 @@ const Typewriter = ({ text, speed = 25, onDone }) => {
     }
   })[0];
   
-  // Function to create synthetic typing sound
+  // Function to create sci-fi computer bite sound
   const playTypingSound = () => {
     if (!audioContextRef) return;
     
@@ -25,15 +25,19 @@ const Typewriter = ({ text, speed = 25, onDone }) => {
       oscillator.connect(gainNode);
       gainNode.connect(audioContextRef.destination);
       
-      // Create a brief click sound with immediate timing
-      oscillator.frequency.setValueAtTime(600, audioContextRef.currentTime);
-      oscillator.frequency.exponentialRampToValueAtTime(150, audioContextRef.currentTime + 0.008);
+      // Create sci-fi computer bite sound
+      oscillator.type = 'square'; // Square wave for digital sound
+      oscillator.frequency.setValueAtTime(1200, audioContextRef.currentTime);
+      oscillator.frequency.exponentialRampToValueAtTime(800, audioContextRef.currentTime + 0.02);
+      oscillator.frequency.exponentialRampToValueAtTime(400, audioContextRef.currentTime + 0.04);
       
-      gainNode.gain.setValueAtTime(0.08, audioContextRef.currentTime);
-      gainNode.gain.exponentialRampToValueAtTime(0.001, audioContextRef.currentTime + 0.015);
+      // Sharp attack and quick decay for bite effect
+      gainNode.gain.setValueAtTime(0, audioContextRef.currentTime);
+      gainNode.gain.linearRampToValueAtTime(0.12, audioContextRef.currentTime + 0.003);
+      gainNode.gain.exponentialRampToValueAtTime(0.001, audioContextRef.currentTime + 0.05);
       
       oscillator.start(audioContextRef.currentTime);
-      oscillator.stop(audioContextRef.currentTime + 0.015);
+      oscillator.stop(audioContextRef.currentTime + 0.05);
     } catch (e) {
       // Silently handle any audio issues
     }
