@@ -6,29 +6,36 @@ import "./App.css";
 const Typewriter = ({ text, speed = 25, onDone }) => {
   const [displayed, setDisplayed] = useState("");
   const [isDone, setIsDone] = useState(false);
+  const audioContextRef = useState(() => {
+    try {
+      return new (window.AudioContext || window.webkitAudioContext)();
+    } catch (e) {
+      return null;
+    }
+  })[0];
   
   // Function to create synthetic typing sound
   const playTypingSound = () => {
+    if (!audioContextRef) return;
+    
     try {
-      const audioContext = new (window.AudioContext || window.webkitAudioContext)();
-      const oscillator = audioContext.createOscillator();
-      const gainNode = audioContext.createGain();
+      const oscillator = audioContextRef.createOscillator();
+      const gainNode = audioContextRef.createGain();
       
       oscillator.connect(gainNode);
-      gainNode.connect(audioContext.destination);
+      gainNode.connect(audioContextRef.destination);
       
-      // Create a brief click sound
-      oscillator.frequency.setValueAtTime(800, audioContext.currentTime);
-      oscillator.frequency.exponentialRampToValueAtTime(200, audioContext.currentTime + 0.01);
+      // Create a brief click sound with immediate timing
+      oscillator.frequency.setValueAtTime(600, audioContextRef.currentTime);
+      oscillator.frequency.exponentialRampToValueAtTime(150, audioContextRef.currentTime + 0.008);
       
-      gainNode.gain.setValueAtTime(0.1, audioContext.currentTime);
-      gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.02);
+      gainNode.gain.setValueAtTime(0.08, audioContextRef.currentTime);
+      gainNode.gain.exponentialRampToValueAtTime(0.001, audioContextRef.currentTime + 0.015);
       
-      oscillator.start(audioContext.currentTime);
-      oscillator.stop(audioContext.currentTime + 0.02);
+      oscillator.start(audioContextRef.currentTime);
+      oscillator.stop(audioContextRef.currentTime + 0.015);
     } catch (e) {
-      // Silently handle any audio context issues
-      console.log('Audio not supported:', e);
+      // Silently handle any audio issues
     }
   };
   
@@ -39,12 +46,12 @@ const Typewriter = ({ text, speed = 25, onDone }) => {
     
     let i = 0;
     const interval = setInterval(() => {
-      setDisplayed(text.slice(0, i + 1));
-      
-      // Play typing sound for each character (skip spaces for more realistic effect)
-      if (text[i] && text[i] !== ' ') {
+      // Play typing sound BEFORE displaying the character for better sync
+      if (text[i] && text[i] !== ' ' && text[i] !== '\n') {
         playTypingSound();
       }
+      
+      setDisplayed(text.slice(0, i + 1));
       
       i++;
       if (i >= text.length) {
