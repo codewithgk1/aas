@@ -6,13 +6,46 @@ import "./App.css";
 const Typewriter = ({ text, speed = 25, onDone }) => {
   const [displayed, setDisplayed] = useState("");
   const [isDone, setIsDone] = useState(false);
+  
+  // Function to create synthetic typing sound
+  const playTypingSound = () => {
+    try {
+      const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+      const oscillator = audioContext.createOscillator();
+      const gainNode = audioContext.createGain();
+      
+      oscillator.connect(gainNode);
+      gainNode.connect(audioContext.destination);
+      
+      // Create a brief click sound
+      oscillator.frequency.setValueAtTime(800, audioContext.currentTime);
+      oscillator.frequency.exponentialRampToValueAtTime(200, audioContext.currentTime + 0.01);
+      
+      gainNode.gain.setValueAtTime(0.1, audioContext.currentTime);
+      gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.02);
+      
+      oscillator.start(audioContext.currentTime);
+      oscillator.stop(audioContext.currentTime + 0.02);
+    } catch (e) {
+      // Silently handle any audio context issues
+      console.log('Audio not supported:', e);
+    }
+  };
+  
   useEffect(() => {
     setDisplayed("");
     setIsDone(false);
     if (!text) return;
+    
     let i = 0;
     const interval = setInterval(() => {
       setDisplayed(text.slice(0, i + 1));
+      
+      // Play typing sound for each character (skip spaces for more realistic effect)
+      if (text[i] && text[i] !== ' ') {
+        playTypingSound();
+      }
+      
       i++;
       if (i >= text.length) {
         clearInterval(interval);
@@ -21,7 +54,8 @@ const Typewriter = ({ text, speed = 25, onDone }) => {
       }
     }, speed);
     return () => clearInterval(interval);
-  }, [text, speed]);
+  }, [text, speed, onDone]);
+  
   return (
     <span>
       {displayed}
