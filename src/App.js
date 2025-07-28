@@ -5,8 +5,10 @@ import "./App.css";
 // Typewriter component for left-to-right typing effect
 const Typewriter = ({ text, speed = 25, onDone }) => {
   const [displayed, setDisplayed] = useState("");
+  const [isDone, setIsDone] = useState(false);
   useEffect(() => {
     setDisplayed("");
+    setIsDone(false);
     if (!text) return;
     let i = 0;
     const interval = setInterval(() => {
@@ -14,12 +16,18 @@ const Typewriter = ({ text, speed = 25, onDone }) => {
       i++;
       if (i >= text.length) {
         clearInterval(interval);
+        setIsDone(true);
         if (onDone) onDone();
       }
     }, speed);
     return () => clearInterval(interval);
   }, [text, speed]);
-  return <span>{displayed}</span>;
+  return (
+    <span>
+      {displayed}
+      <span className={`typewriter-cursor${isDone ? " done" : ""}`}>|</span>
+    </span>
+  );
 };
 
 const App = () => {
