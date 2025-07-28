@@ -2,13 +2,35 @@ import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import "./App.css";
 
+// Typewriter component for left-to-right typing effect
+const Typewriter = ({ text, speed = 25, onDone }) => {
+  const [displayed, setDisplayed] = useState("");
+  useEffect(() => {
+    setDisplayed("");
+    if (!text) return;
+    let i = 0;
+    const interval = setInterval(() => {
+      setDisplayed(text.slice(0, i + 1));
+      i++;
+      if (i >= text.length) {
+        clearInterval(interval);
+        if (onDone) onDone();
+      }
+    }, speed);
+    return () => clearInterval(interval);
+  }, [text, speed]);
+  return <span>{displayed}</span>;
+};
+
 const App = () => {
   const [currentSection, setCurrentSection] = useState(0);
   const [isVisible, setIsVisible] = useState(false);
+  const [currentParagraph, setCurrentParagraph] = useState(0);
 
   useEffect(() => {
     setIsVisible(true);
-  }, []);
+    setCurrentParagraph(0); // Reset paragraph when section changes
+  }, [currentSection]);
 
   const sections = [
     {
@@ -165,11 +187,31 @@ We are checking what it's plugged into.`,
           >
             {sections[currentSection].content
               .split("\n")
-              .map((paragraph, index) => (
-                <p key={index} className="paragraph">
-                  {paragraph}
-                </p>
-              ))}
+              .map((paragraph, index) => {
+                if (index < currentParagraph) {
+                  // Already typed, show as plain text
+                  return (
+                    <p key={index} className="paragraph">
+                      {paragraph}
+                    </p>
+                  );
+                } else if (index === currentParagraph) {
+                  // Currently typing
+                  return (
+                    <p key={index} className="paragraph">
+                      <Typewriter
+                        key={currentSection + "-" + index}
+                        text={paragraph}
+                        speed={36}
+                        onDone={() => setCurrentParagraph((p) => p + 1)}
+                      />
+                    </p>
+                  );
+                } else {
+                  // Not yet typed
+                  return <p key={index} className="paragraph"></p>;
+                }
+              })}
           </motion.div>
         </motion.div>
 
